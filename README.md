@@ -1,6 +1,9 @@
-# ATLIQO-Telecom-Data-Analysis
+# ATLIQ-Telecome-Data-Analysis
 
 This project is a part of Code Basics Resume Challegne #3. 
+
+## 🔗 Dashboard Link
+[Link to Dashboard](https://lnkd.in/e5zjf-8M)
 
 ### Scenario: 
 
